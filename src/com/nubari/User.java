@@ -109,4 +109,7 @@ public class User {
 
     }
 
+    public void setActiveDiary(Diary diary) {
+        this.activeDiary = diary;
+    }
 }
